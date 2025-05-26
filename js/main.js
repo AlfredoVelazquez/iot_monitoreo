@@ -1,6 +1,6 @@
 const tableBody = document.getElementById('deviceTableBody');
 const firstStatus = document.getElementById('firstStatus');
-const API_URL = "http://3.208.86.0/api/devices"; // URL de la API
+const API_URL = "http://98.80.201.236/api/devices"; // URL de la API
 
 async function fetchData() {
     try {
